@@ -2,7 +2,7 @@
 
 The parser of the language whose chains are:
 
-#Construction - branch operator
+Construction - branch operator
 select <arithmetic expression>
 case <const> <operators>
 	[case <const> <operators>]
